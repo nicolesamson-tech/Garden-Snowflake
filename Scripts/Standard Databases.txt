@@ -1,0 +1,5 @@
+-- ingestion (incoming data / landing zone)
+-- maintenance (log files / data)
+-- governance (network policies / masking policies)
+-- presentation (user interaction)
+-- [production] (clean data)
