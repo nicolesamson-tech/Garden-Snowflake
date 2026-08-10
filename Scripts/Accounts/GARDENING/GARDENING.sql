@@ -6,7 +6,7 @@ USE ROLE ORGADMIN;
 -- create a new account in AWS US West (Oregon) region with Enterprise edition
 CREATE ACCOUNT GARDENING
     ADMIN_NAME = 'NICOLE'
-    ADMIN_PASSWORD = 'rLEp4%!k3r}<Ri!Crn5d4TK$'
+    ADMIN_PASSWORD = ''
     ADMIN_USER_TYPE = 'PERSON'
     FIRST_NAME = 'Nicole'
     LAST_NAME = 'Samson'
